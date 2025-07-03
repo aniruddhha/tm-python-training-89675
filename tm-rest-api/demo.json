@@ -1,0 +1,12 @@
+{
+    "emp_name": "John Doe",
+    "emp_id": 12345,
+    "department": "Engineering",
+    "skills": [
+        "JavaScript",
+        "Python",
+        "Java"
+    ]
+}
+
+
